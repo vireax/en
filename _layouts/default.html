@@ -9,7 +9,6 @@
     <link rel="stylesheet" type="text/css" media="screen" href="{{ site.baseurl }}/stylesheets/stylesheet.css">
 
     <title>
-    {% if page.url == site.url %}site.url = page.url {% else %} site.url != page.url {% endif %}
     {{ page.title }} {% if paginator.page == 1 %}<!--p>paginator = 1</p-->{% endif %}
     </title>
   </head>
@@ -34,6 +33,8 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
+      <p>site.url: {{ site.url }}</p>
+      <p>page.url: {{ page.url }}</p>
         {{ content }}
       </section>
     </div>
