@@ -3,14 +3,7 @@ layout: default
 title: NeoScribe
 ---
 
-{% if paginator.page == 1 %}
-<p>Written in <a href="http://vireax.github.io/en">en</a>, 
-<a href="http://vireax.github.io/fr">fr</a>, 
-<a href="http://vireax.github.io/km">km</a>, 
-<a href="http://vireax.github.io/th">th</a></p>
-{% endif %}
-
-<h1>Posts</h1>
+<h1>Blog posts</h1>
 
 <!-- This loops through the paginated posts -->
   <ul class="list-of-posts">
@@ -39,4 +32,12 @@ title: NeoScribe
   <span class="page_number">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
   <hr>
 </div>
+
+{% if paginator.page == 1 %}
+<!-- Links to other blogs -->
+<p>Written in <a href="http://vireax.github.io/en">en</a>, 
+<a href="http://vireax.github.io/fr">fr</a>, 
+<a href="http://vireax.github.io/km">km</a>, 
+<a href="http://vireax.github.io/th">th</a></p>
+{% endif %}
 {% endif %}
