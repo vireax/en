@@ -8,7 +8,10 @@
 
     <link rel="stylesheet" type="text/css" media="screen" href="{{ site.baseurl }}/stylesheets/stylesheet.css">
 
-    <title>{{ page.title }}</title>
+    <title>
+    {% if page.url == site.url %}site.url = page.url {% else %} site.url != page.url {% endif %}
+    {{ page.title }} {% if paginator.page == 1 %}<!--p>paginator = 1</p-->{% endif %}
+    </title>
   </head>
 
   <body>
