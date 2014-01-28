@@ -3,4 +3,4 @@ pygments: true
 relative_permalinks: true
 permalink: /:year-:month-:day-:title.html
 baseurl: /en
-paginate: 3
+paginate: 20
