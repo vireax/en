@@ -1,12 +1,21 @@
 ---
 layout: default
-title: CCGA for vibration based damage detection in truss structures
+title: NeoScribe
 ---
 
-{% if paginator.page == 1 %}<p>paginator = 1</p>{% endif %}
+{% if paginator.page == 1 %}<!--p>paginator = 1</p-->{% endif %}
 
-<h2>Posts</h2>
+<h1>Posts</h1>
 
+<!-- This loops through the paginated posts -->
+  <ul class="list-of-posts">
+{% for post in paginator.posts %}
+<li>
+    <span class="index-post-date">{{ post.date | date_to_string }}</span> &raquo;  
+    <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+</li>
+{% endfor %}
+ </ul>
 <!-- Pagination links -->
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
@@ -27,14 +36,5 @@ title: CCGA for vibration based damage detection in truss structures
 </div>
 {% endif %}
 
-<!-- This loops through the paginated posts -->
-  <ul class="list-of-posts">
-{% for post in paginator.posts %}
-<li>
-    <span class="index-post-date">{{ post.date | date_to_string }}</span> &raquo;  
-    <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-</li>
-{% endfor %}
- </ul>
 
 </div>
