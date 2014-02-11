@@ -1,10 +1,11 @@
 ---
 layout: post
-date: 2014-02-11
 title: scopus training
+date: 2014-02-11
+---
+
 time: 09:00-12:00
 location: burapha library
----
 
 # intro: product
 
