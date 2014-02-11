@@ -20,7 +20,10 @@ Another back story is with the requirements by the university. Some faculties ma
 
 Cynicism does not help either. When we are not interested in promoting, and therefore motivating people, evolution ceases. Otherwise, people other than we will still do it because people simply enjoy diversification. The problem is that the truth behind famous people are not really famous. Einstein didn't get a secure job by himself, Darwin either, Nash did try too much harder than his brain can handle, Faraday didn't earn any recognition by the community, Tesla was almost erased from the history because of his ingenuity. 
 
-> Happiness can be defined as excitement, for young people, and peace, for the old ones. 
+> Happiness can be defined as excitement, for young people, and peace, for the old ones.
+>
 > Source: someone from TED Talk (I can't remember)
 
 I choose the second one. To solve this problem, I don't need to solve the problem. Let's just ignore them, do whatever best we can do, and therefore, try not to impact the world. I chose to be indifferent so as to be a happy being. 
+
+While attending a training session by top academic journal publisher, I just feel that everyone are seeking to compete against each other, to stand above low quality researchers, to collaborate with only the best people, from best institutions, so that to publish in the best journal again, so that to maintain the reputation of being the best. Behind this competition, some lose and some win, but I'm sure the publisher will always make profit from motivating this battle.
