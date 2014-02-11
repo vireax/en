@@ -1,13 +1,13 @@
 ---
 layout: post
-title: scopus training
+title: Scopus training
 date: 2014-02-11
 ---
 
-time: 0900-1200  
-location: burapha library
+* time\: 0900-1200  
+* location\: burapha library
 
-# intro product
+# Intro product
 
 * Elsevier
 * Scopus
@@ -129,6 +129,7 @@ researchers need subscription fee to access full text
 (some people have name conflict, each author need to carry an author identifier)
 
 # Analyse
+
 - track citation over time
 - view h-index for specific authors
 - assess trends in search results with Analyze Results
@@ -225,8 +226,9 @@ easier export ot medeley (feb, 2014)
 * Export result csv file
 
 ## Metric for Journal and author evaluation
+
 ( Not in Scopus )  
-* Impact factor
+* Impact factor  
 ( In Scopus )  
 * Source-Normaized Impact per Paper (SNIP
 * Scimago Journal Rank (SJR)
@@ -295,3 +297,27 @@ CONS:
 * Browse source 
 * Search title
 * View ranking based on SJR and SNIP
+
+## Active thailand journal titles in scopus
+
+* ChiengMai
+* etc.
+
+## Journal Analyzer
+
+* Choose journal
+* View Ranking by year
+* Compare
+* Tabs: SJR, SNIP, Citations, Docs, Percent not cited
+* View in graph or in table form
+* Print
+ 
+## Find perfect journal for your article
+
+http://journalfinder.elsevier.com/
+
+* to check suitable journal for your paper
+* Input title
+* Input abstract
+* Search
+* sort by: title, impact factor, open acces, editorial times, acceptance, production times
