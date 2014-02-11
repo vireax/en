@@ -4,7 +4,7 @@ title: scopus training
 date: 2014-02-11
 ---
 
-time: 09:00-12:00
+time: 09:00-12:00  
 location: burapha library
 
 # intro: product
@@ -40,8 +40,6 @@ Or
 Prepublication
 Production and publication
 Dissemination and use
-This is the workflow of Elsevier
----------------------------
 
 # Session outline
 
@@ -57,7 +55,7 @@ Scopus supporting site and live chat!!
 # Scopus: Dayton, Ohio: home of scopus
 
 
-# a researcher read> 300 articles per year
+a researcher read> 300 articles per year
 
 *. 3.7 search
 *. 5.6 reading perweek
@@ -133,13 +131,18 @@ researchers need subscription fee to access full text
 
 
 # NEWS RELEASE & UPDATE
+
 ## 2012
+
 - internet browser support: ie, firefox, ie 7-8, no ie6, chrome, safari
+
 ## august 2013
+
 1. book r book chapter document type
 2. Sources alert
 
 ## august 2013
+
 : sciverse hub is retiring
 : Scirus is retired
 : new UI
