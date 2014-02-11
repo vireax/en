@@ -6,6 +6,7 @@ date: 2014-02-11
 
 * time\: 09\:00-12\:00  
 * location\: burapha library
+* Note: [http://www.lib.buu.ac.th/webnew2/wp-content/uploads/2014/02/SCOPUS2014_Feb.pdf](http://www.lib.buu.ac.th/webnew2/wp-content/uploads/2014/02/SCOPUS2014_Feb.pdf)
 
 ## Intro product
 
