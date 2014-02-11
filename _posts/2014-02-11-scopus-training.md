@@ -4,8 +4,8 @@ title: scopus training
 date: 2014-02-11
 ---
 
-time 0900-1200  
-location burapha library
+time: 0900-1200  
+location: burapha library
 
 # intro product
 
@@ -218,3 +218,80 @@ easier export ot medeley (feb, 2014)
 
 
 
+
+## Reseach Trend and Experts by Analyze Results
+
+* Compare reputation of authors, fields, topics, area, journal, year, 
+* Export result csv file
+
+## Metric for Journal and author evaluation
+( Not in Scopus )  
+* Impact factor
+( In Scopus )  
+* Source-Normaized Impact per Paper (SNIP
+* Scimago Journal Rank (SJR)
+* H-Index
+
+## Why metrics?
+
+Impact factor : total citations in 2011 from all items published in journal in 2009 and 2010 no. of only articles published in 2009 and 2010 = impact factor
+
+## Subject field differences
+
+Which journal is best?
+
+* Nature material
+* Cell
+* Circulation
+* Enterprise information systems
+* etc
+
+## SJR (available in 2009)
+
+SCImago Journal Rank - SJR (Power of Prestige)
+
+* developed by SCImago - Research Group, university of Granada
+* Main feature is prestige metric - similar to Google PageRank
+* Secondary feature: difference citation behaviour addressed
+> * life science: high impact, lot of citations .. one citation = low value
+> * art and humanities: Low impact, few of citations .. one citation = high value
+* citations are weighted depending on the status of the source they come from
+* share a journal's prestige equally ...
+
+## SNIP (2009)
+
+Source-normalized impact per paper - SNIP (balancing the scales)
+
+* developed by Henk Moed, CWTS, University of Leiden
+* Main feature: *contextual citation impact*
+  * part 1
+  * part 2
+
+## Advantage of SNIP and SJR
+
+PROs
+
+* transparency
+* metrics based on scopus.com
+* subject field normalization
+* 3-years citation window
+* manipulation-resistant
+* breadth of coverage
+
+CONS:
+
+* more complex methodology for calculation
+* the range that SJR and SNIP ...
+
+## Using SNIP and SJR, Not impact factor ... When?
+
+* Journals without impact factors
+* subject field differences may affect ranking and not only quality
+* compare basic and applied journal
+* . . .
+
+## Find quality journal
+
+* Browse source 
+* Search title
+* View ranking based on SJR and SNIP
