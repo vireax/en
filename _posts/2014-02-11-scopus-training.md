@@ -4,10 +4,10 @@ title: scopus training
 date: 2014-02-11
 ---
 
-time: 09:00-12:00  
-location: burapha library
+time 0900-1200  
+location burapha library
 
-# intro: product
+# intro product
 
 * Elsevier
 * Scopus
@@ -44,15 +44,15 @@ Dissemination and use
 # Session outline
 
 What?
-New release & update
+New release and update
 Personalize scopus
 Search, support
-Production, publication & access the impact
+Production, publication and access the impact
 What else scopus can do?
 Going mobile
 Scopus supporting site and live chat!!
 
-# Scopus: Dayton, Ohio: home of scopus
+# Scopus, Dayton, Ohio, home of scopus
 
 
 a researcher read> 300 articles per year
@@ -63,9 +63,9 @@ a researcher read> 300 articles per year
 
 # What are they looking for?
 
-* Students: search info, relevant info, quick overview of the subject area
-* researcher: compare to other, visibility, being cited, collaborate for more successful info
-* librarian: give patron access, …
+* Students search info, relevant info, quick overview of the subject area
+* researcher compare to other, visibility, being cited, collaborate for more successful info
+* librarian give patron access, …
 
 # Scopus accelerate the literature research process
 
@@ -134,7 +134,7 @@ researchers need subscription fee to access full text
 
 ## 2012
 
-- internet browser support: ie, firefox, ie 7-8, no ie6, chrome, safari
+- internet browser support ie, firefox, ie 7-8, no ie6, chrome, safari
 
 ## august 2013
 
@@ -143,9 +143,9 @@ researchers need subscription fee to access full text
 
 ## august 2013
 
-: sciverse hub is retiring
-: Scirus is retired
-: new UI
+ sciverse hub is retiring
+ Scirus is retired
+ new UI
 
 
 # PERSONALIZE SCOPUST	
@@ -183,12 +183,12 @@ researchers need subscription fee to access full text
 ## Alert in Scopus
 
 * frequency, 
-* Search:TITLE-ABS-KEY
-* Name of alert: *
-* E-mail address(es): 
-* Frequency:  on  
-* E-mail format: HTML Email Format HTML   TEXT Email Format Text
-* Status: active, inactive
+* Search TITLE-ABS-KEY
+* Name of alert  *
+* E-mail address(es) 
+* Frequency  on  
+* E-mail format HTML Email Format HTML   TEXT Email Format Text
+* Status active, inactive
 
 ## document download
 
@@ -196,7 +196,7 @@ Need java (QUOSA Inc.)
 
 ## Export reference list, bibliography
 
-: easier export ot medeley (feb, 2014)
+easier export ot medeley (feb, 2014)
 
 ## View citation overview
 
