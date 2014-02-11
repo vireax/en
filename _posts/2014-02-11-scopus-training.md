@@ -4,16 +4,16 @@ title: Scopus training
 date: 2014-02-11
 ---
 
-* time\: 0900-1200  
+* time\: 09\:00-12\:00  
 * location\: burapha library
 
-# Intro product
+## Intro product
 
 * Elsevier
 * Scopus
 * etc.
 
-# research process I
+## research process I
 
 * research theory
 * Situation,
@@ -22,7 +22,7 @@ date: 2014-02-11
 * Data
 * Conclusion
 
-# research process II
+## research process II
 
 * Ident. Problem
 * Statement
@@ -30,7 +30,7 @@ date: 2014-02-11
 * Form hypothesis
 * etc.
 
-# journal research and publishing workflow
+## journal research and publishing workflow
 
 * Experiment and conduct research
 * Pear review
@@ -44,7 +44,7 @@ Or
 * Production and publication
 * Dissemination and use
 
-# Session outline
+## Session outline
 
 * What?
 * New release and update
@@ -55,7 +55,7 @@ Or
 * Going mobile
 * Scopus supporting site and live chat!!
 
-# Scopus, Dayton, Ohio, home of scopus
+## Scopus, Dayton, Ohio, home of scopus
 
 
 a researcher read more than 300 articles per year
@@ -64,17 +64,17 @@ a researcher read more than 300 articles per year
 * 5.6 reading perweek
 * 6 articles read per week
 
-# What are they looking for?
+## What are they looking for?
 
 * Students search info, relevant info, quick overview of the subject area
 * researcher compare to other, visibility, being cited, collaborate for more successful info
 * librarian give patron access, …
 
-# Scopus accelerate the literature research process
+## Scopus accelerate the literature research process
 
 abcdef
 
-# What is scopus
+## What is scopus
 
 contains peer-reviewed research literature and quality web sources
 more than 21000 title
@@ -82,7 +82,7 @@ more than 21000 title
 features and functionality designed to support and improve researchers' workflow
 
 
-# broads source for research answers
+## broads source for research answers
 
 21000 active titles
 20000 pee reviewd journals
@@ -93,14 +93,14 @@ features and functionality designed to support and improve researchers' workflow
 articles in press from more than 38 50 titles
 40 languages covered
 
-# Subject areas
+## Subject areas
 
 Physical science 
 Health
 Social
 Life sciences
 
-# You can
+## You can
 
 - Author profiling
 - Understand research trends
@@ -110,7 +110,7 @@ Life sciences
 
 researchers need subscription fee to access full text
 
-# Assistance in search
+## Assistance in search
 
 - search by tag
 - refine
@@ -118,7 +118,7 @@ researchers need subscription fee to access full text
 - export to mendeley, refworks, endnote, zotero
 - feed to email alert, rss, html feeds (sent feeds are only in link format, not full text)
 
-# Discover
+## Discover
 
 - related doc by shared ref, authors and/or keywords
 - identify and match an organization with its research output using affiliation identifier
@@ -128,7 +128,7 @@ researchers need subscription fee to access full text
 
 (some people have name conflict, each author need to carry an author identifier)
 
-# Analyse
+## Analyse
 
 - track citation over time
 - view h-index for specific authors
@@ -138,27 +138,27 @@ researchers need subscription fee to access full text
 
 
 
-# NEWS RELEASE & UPDATE
+## NEWS RELEASE & UPDATE
 
-## 2012
+### 2012
 
 - internet browser support ie, firefox, ie 7-8, no ie6, chrome, safari
 
-## august 2013
+### august 2013
 
 1. book r book chapter document type
 2. Sources alert
 
-## august 2013
+### august 2013
 
  sciverse hub is retiring
  Scirus is retired
  new UI
 
 
-# PERSONALIZE SCOPUS
+## PERSONALIZE SCOPUS
 
-## advantage of registration
+### advantage of registration
 
 - search
   - save search
@@ -168,9 +168,9 @@ researchers need subscription fee to access full text
 - application
 	
 	
-# SEARCH CONTENT AND SUPPORT TOOLS
+## SEARCH CONTENT AND SUPPORT TOOLS
 
-## Searching citations and indexes
+### Searching citations and indexes
 
 * document
 * author
@@ -178,7 +178,7 @@ researchers need subscription fee to access full text
 * advanced search (using boolean connectors)
 * add more search field
 
-## Result list
+### Result list
 
 * search results,
 * search withing and refine results
@@ -188,7 +188,7 @@ researchers need subscription fee to access full text
 * batch download and view citation
 * display article pages
 
-## Alert in Scopus
+### Alert in Scopus
 
 * frequency, 
 * Search TITLE-ABS-KEY
@@ -198,19 +198,19 @@ researchers need subscription fee to access full text
 * E-mail format HTML Email Format HTML   TEXT Email Format Text
 * Status active, inactive
 
-## document download
+### document download
 
 Need java (QUOSA Inc.)
 
-## Export reference list, bibliography
+### Export reference list, bibliography
 
 easier export ot medeley (feb, 2014)
 
-## View citation overview
+### View citation overview
 
 . . .
 
-## Reviewing documents
+### Reviewing documents
 
 * document titles and author information
 * citation information and alert
@@ -220,25 +220,27 @@ easier export ot medeley (feb, 2014)
 
 
 
-## Reseach Trend and Experts by Analyze Results
+### Reseach Trend and Experts by Analyze Results
 
 * Compare reputation of authors, fields, topics, area, journal, year, 
 * Export result csv file
 
-## Metric for Journal and author evaluation
+### Metric for Journal and author evaluation
 
 ( Not in Scopus )  
+
 * Impact factor  
+
 ( In Scopus )  
 * Source-Normaized Impact per Paper (SNIP
 * Scimago Journal Rank (SJR)
 * H-Index
 
-## Why metrics?
+### Why metrics?
 
 Impact factor : total citations in 2011 from all items published in journal in 2009 and 2010 no. of only articles published in 2009 and 2010 = impact factor
 
-## Subject field differences
+### Subject field differences
 
 Which journal is best?
 
@@ -248,7 +250,7 @@ Which journal is best?
 * Enterprise information systems
 * etc
 
-## SJR (available in 2009)
+### SJR (available in 2009)
 
 SCImago Journal Rank - SJR (Power of Prestige)
 
@@ -260,7 +262,7 @@ SCImago Journal Rank - SJR (Power of Prestige)
 * citations are weighted depending on the status of the source they come from
 * share a journal's prestige equally ...
 
-## SNIP (2009)
+### SNIP (2009)
 
 Source-normalized impact per paper - SNIP (balancing the scales)
 
@@ -269,7 +271,7 @@ Source-normalized impact per paper - SNIP (balancing the scales)
   * part 1
   * part 2
 
-## Advantage of SNIP and SJR
+### Advantage of SNIP and SJR
 
 PROs
 
@@ -285,25 +287,25 @@ CONS:
 * more complex methodology for calculation
 * the range that SJR and SNIP ...
 
-## Using SNIP and SJR, Not impact factor ... When?
+### Using SNIP and SJR, Not impact factor ... When?
 
 * Journals without impact factors
 * subject field differences may affect ranking and not only quality
 * compare basic and applied journal
 * . . .
 
-## Find quality journal
+### Find quality journal
 
 * Browse source 
 * Search title
 * View ranking based on SJR and SNIP
 
-## Active thailand journal titles in scopus
+### Active thailand journal titles in scopus
 
 * ChiengMai
 * etc.
 
-## Journal Analyzer
+### Journal Analyzer
 
 * Choose journal
 * View Ranking by year
@@ -312,12 +314,76 @@ CONS:
 * View in graph or in table form
 * Print
  
-## Find perfect journal for your article
+### Find perfect journal for your article
 
-http://journalfinder.elsevier.com/
+[http://journalfinder.elsevier.com/](http://journalfinder.elsevier.com/)
 
 * to check suitable journal for your paper
 * Input title
 * Input abstract
 * Search
 * sort by: title, impact factor, open acces, editorial times, acceptance, production times
+* follow description of the journal \: check guidline, format, process, timeframe, contact, ethics, etc.
+
+### h-index in Scopus
+
+* 2005 by Jorge Hirsch, UC, San Diego
+* The h-index is the highest number of papers a scientist has that have at least that number of citations. (Nature 2005)
+* ...
+
+### Why the h-index
+
+Traditional  
+* Number of publications per year  - salami publication
+* average / total citation per paper - may penalize productivity
+* ...
+
+### Hirsch index (h-index)
+
+source: wikipedia: H-Index
+
+Ex. 1242 documents written after 1995 by Langer Roberts S.
+
+* Verify  document vs. citation
+
+### Author search
+
+* search author
+* author detail
+* distribution of subject area
+
+
+### Affiliate search
+
+* rank
+* etc.
+
+
+## What else scopus can do? 
+
+* advanced search
+  * Query syntax 
+* broader coverage
+* promote journal and articles
+  * show affilate count
+* world leading standard
+	* decision making
+	* ranking
+* linking to ORCID (Open Researcher and Conributor ID): verify researchers' id to avoid future conflict
+
+
+## Going mobile
+
+* iphone app, and android
+* free access to registered users
+  * search 
+  * share
+  * save
+  * setup alert
+   
+  
+## Support
+
+* Support
+* Training
+* Live Chat!
