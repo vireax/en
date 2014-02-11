@@ -23,6 +23,7 @@ location burapha library
 * Conclusion
 
 # research process II
+
 * Ident. Problem
 * Statement
 * Ouline
@@ -31,35 +32,37 @@ location burapha library
 
 # journal research and publishing workflow
 
-Experiment and conduct research
- Pear review
-Finding
-Build fame
-Assess impact
+* Experiment and conduct research
+* Pear review
+* Finding
+* Build fame
+* Assess impact
+
 Or 
-Prepublication
-Production and publication
-Dissemination and use
+
+* Prepublication
+* Production and publication
+* Dissemination and use
 
 # Session outline
 
-What?
-New release and update
-Personalize scopus
-Search, support
-Production, publication and access the impact
-What else scopus can do?
-Going mobile
-Scopus supporting site and live chat!!
+* What?
+* New release and update
+* Personalize scopus
+* Search, support
+* Production, publication and access the impact
+* What else scopus can do?
+* Going mobile
+* Scopus supporting site and live chat!!
 
 # Scopus, Dayton, Ohio, home of scopus
 
 
-a researcher read> 300 articles per year
+a researcher read more than 300 articles per year
 
-*. 3.7 search
-*. 5.6 reading perweek
-*. 6 articles read per week
+* 3.7 search
+* 5.6 reading perweek
+* 6 articles read per week
 
 # What are they looking for?
 
@@ -106,6 +109,7 @@ Life sciences
 researchers need subscription fee to access full text
 
 # Assistance in search
+
 - search by tag
 - refine
 - link to full-text and other library resources
@@ -113,6 +117,7 @@ researchers need subscription fee to access full text
 - feed to email alert, rss, html feeds (sent feeds are only in link format, not full text)
 
 # Discover
+
 - related doc by shared ref, authors and/or keywords
 - identify and match an organization with its research output using affiliation identifier
 - identify collaborators or subject experts with author identifier
@@ -148,10 +153,10 @@ researchers need subscription fee to access full text
  new UI
 
 
-# PERSONALIZE SCOPUST	
-
+# PERSONALIZE SCOPUS
 
 ## advantage of registration
+
 - search
   - save search
   - search history
