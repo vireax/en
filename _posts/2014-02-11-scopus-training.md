@@ -191,7 +191,7 @@ researchers need subscription fee to access full text
 
 * frequency, 
 * Search TITLE-ABS-KEY
-* Name of alert  *
+* Name of alert 
 * E-mail address(es) 
 * Frequency  on  
 * E-mail format HTML Email Format HTML   TEXT Email Format Text
