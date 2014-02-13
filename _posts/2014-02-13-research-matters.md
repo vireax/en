@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Some reflections about doing academic research"
+title: "Some reflections about research matters"
 date: 2014-02-13
 ---
 
