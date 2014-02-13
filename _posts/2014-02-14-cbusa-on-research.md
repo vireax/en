@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Discussion CBUSA"
-date: 2014-01-15
+title: "Discussion for CBUSA"
+date: 2014-02-14
 ---
 
-## AGENDA ##
+Plan
 
 1. Vireax (30)
 2. All (30)
