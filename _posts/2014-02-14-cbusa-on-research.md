@@ -4,13 +4,15 @@ title: "Discussion for CBUSA"
 date: 2014-02-14
 ---
 
+Soklin was looking for guidance to prepare a research proposal to be submitted to his advisor. I think this should be also time for everyone to report or progress and share personal experiences although many of us can be really worried about not finishing the program on time. 
+
 Plan
 
 1. Vireax (30)
 2. All (30)
 3. Case (30+)
 
-## VIREAX ##
+## Vireax ##
 
 ### Progress report ###
 
@@ -84,7 +86,7 @@ Questions: how to ...?
 - design
 
 
-## CASE STUDY ##
+## Sample case ##
 
 - problem
 - objective
