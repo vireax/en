@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building fame in research arena
+title: Building fame in research
 date: 2014-02-11
 ---
 
