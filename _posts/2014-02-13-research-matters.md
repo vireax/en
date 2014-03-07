@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Reflections on research matters"
+title: "Research matters"
 date: 2014-02-13
 ---
 
